@@ -8,10 +8,32 @@
 \usepackage{hyperref}
 \usepackage{breakurl}
 
+\usepackage{tocloft}
+\cftsetindents{chapter}{0in}{0.5in}
+\cftsetindents{section}{0in}{0.5in}
+\cftsetindents{subsection}{0in}{0.5in}
+\setlength\cftbeforechapskip{18pt}
+
 
 %biblatex
 \usepackage[babel,german=quotes]{csquotes}
 \usepackage[style=authortitle]{biblatex}
+
+\bibliography{literatur}
+\defbibheading{lit}{\chapter{Literaturverzeichnis}}
+\setlength\bibitemsep{2\itemsep}
+
+\usepackage{filecontents}
+\begin{filecontents}{literatur.bib} 
+@Electronic{schildroetling,
+  Title                    = {Steckbrief zu: Entoloma clypeatum},
+  Author                   = {Fredis-Pilzseite.de},
+  Url                      = {http://www.fredis-pilzseite.de/entoloma-clypeatum-1/},
+  Keywords                 = {schildroetling},
+  Owner                    = {Kevin},
+  Urldate				   = {2014-07-03}
+}
+\end{filecontents} 
 
 %set numeration depth
 \setcounter{secnumdepth}{3}
@@ -27,19 +49,33 @@
 %\publishers{htwsaar}
 %\maketitle
 \tableofcontents
+\pagebreak
 \listoffigures
 %\listoftables
 
 \begin{abstract}
 \begin{quote}%abstand rechts und links
-TODO: ersetzen
-
-Diese Arbeit befasst sich mit der Beschreibung einer Pilzgattung in der Ordnung der Champignonartigen, in der Familie der Seitlingsverwandten. Es handelt sich dabei um die sogenannten \emph{Seitlinge -- lateinisch Pleurotus --}.
+Unter dem Schirmthema \emph{Heimische Pilze} beschäftigt sich diese Ausarbeitung mit den Seitlingen (lat.: "'Pleurotus"'). Es werden unter anderem Kenntnisse über Allgemeinheiten, das Vorkommen, die Beschreibung des Pilzes sowie die bei Pilzen so wichtigen Verwechslungsmöglichkeiten vermittelt. Weiterhin wird eine Auswahl ausgesuchter Arten einzeln betrachtet.
+\footcite{schildroetling}
 \end{quote} 
 \end{abstract}
 
 \chapter{Vorwort}
-Diese Ausarbeitung ist Bestandteil einer Reihe von Ausarbeitungen, die im Zuge der Vorlesung "'Technische Dokumentation"' entstanden sind. Der Kerngedanke bei der Anfertigung dieser Arbeit ist, zu erlernen, wie man mit fachbezogenen Texten umgeht -- von der Recherche über die Erstellung bis hin zur Anfertigung eines korrekten Literaturverzeichnisses. Unter dem Schirmthema \emph{Heimische Pilze} beschäftigt sich diese Ausarbeitung mit den Seitlingen (lat.: "'Pleurotus"'). Es werden unter anderem Kenntnisse über Allgemeinheiten, das Vorkommen, die Beschreibung des Pilzes sowie die bei Pilzen so wichtigen Verwechslungsmöglichkeiten vermittelt. Weiterhin wird eine Auswahl ausgesuchter Arten einzeln betrachtet.
+Diese Ausarbeitung ist Bestandteil einer Reihe von Ausarbeitungen, die im Zuge der Vorlesung "'Technische Dokumentation"' entstanden sind. Der Kerngedanke bei der Anfertigung dieser Arbeit ist, zu erlernen, wie man mit fachbezogenen Texten umgeht -- von der Recherche über die Erstellung bis hin zur Anfertigung eines korrekten Literaturverzeichnisses. 
 
+\chapter{der Seitling}
+\section{Allgemeines}
+
+\section{Bodenbeschaffenheit}
+
+\section{Beschreibung}
+
+\section{Verwechslungsmöglichkeiten}
+
+\section{Ernte, Haltbarkeit und richtige Lagerung}
+
+\section{Rezept}
+
+\printbibliography[heading=lit]
 
 \end{document}

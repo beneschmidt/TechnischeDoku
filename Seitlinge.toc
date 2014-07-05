@@ -3,3 +3,19 @@
 \select@language {ngerman}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {1}Vorwort}{5}{chapter.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}der Seitling}{6}{chapter.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Allgemeines}{6}{section.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Bodenbeschaffenheit}{6}{section.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}Beschreibung}{6}{section.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.4}Verwechslungsm\IeC {\"o}glichkeiten}{6}{section.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.5}Ernte, Haltbarkeit und richtige Lagerung}{6}{section.2.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.6}Rezept}{6}{section.2.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Literaturverzeichnis}{7}{chapter.3}

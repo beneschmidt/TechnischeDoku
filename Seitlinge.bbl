@@ -1,0 +1,45 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{entry}{nty}
+    \entry{schildroetling}{online}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=4a4654f38a8537e08be9137bd97cfdc9}{Fredis-Pilzseite.de}{F\bibinithyphendelim P\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=4a4654f38a8537e08be9137bd97cfdc9}{Fredis-Pilzseite.de}{F\bibinithyphendelim P\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{4a4654f38a8537e08be9137bd97cfdc9}
+      \strng{fullhash}{4a4654f38a8537e08be9137bd97cfdc9}
+      \field{sortinit}{F}
+      \field{labeltitle}{Steckbrief zu: Entoloma clypeatum}
+      \field{title}{Steckbrief zu: Entoloma clypeatum}
+      \field{urlday}{03}
+      \field{urlmonth}{07}
+      \field{urlyear}{2014}
+      \verb{url}
+      \verb http://www.fredis-pilzseite.de/entoloma-clypeatum-1/
+      \endverb
+      \keyw{schildroetling}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+
