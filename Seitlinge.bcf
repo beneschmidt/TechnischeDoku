@@ -1964,7 +1964,12 @@
     <bcf:datasource type="file" datatype="bibtex">literatur.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">schildroetling</bcf:citekey>
+    <bcf:citekey order="1">faktenuber</bcf:citekey>
+    <bcf:citekey order="2">pilzech</bcf:citekey>
+    <bcf:citekey order="3">faktenuber</bcf:citekey>
+    <bcf:citekey order="4">pilzech</bcf:citekey>
+    <bcf:citekey order="5">pg_austernseitling</bcf:citekey>
+    <bcf:citekey order="6">vital</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" type="entry" label="nty">
   <bcf:sorting>

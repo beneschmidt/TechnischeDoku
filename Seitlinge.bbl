@@ -19,25 +19,89 @@
 
 \refsection{0}
   \sortlist{entry}{nty}
-    \entry{schildroetling}{online}{}
+    \entry{faktenuber}{online}{}
       \name{labelname}{1}{}{%
-        {{uniquename=0,hash=4a4654f38a8537e08be9137bd97cfdc9}{Fredis-Pilzseite.de}{F\bibinithyphendelim P\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=30fc2a4fa5040b63f269a5926226af0a}{fakten-uber.de}{f\bibinithyphendelim u\bibinitperiod}{}{}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{uniquename=0,hash=4a4654f38a8537e08be9137bd97cfdc9}{Fredis-Pilzseite.de}{F\bibinithyphendelim P\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=30fc2a4fa5040b63f269a5926226af0a}{fakten-uber.de}{f\bibinithyphendelim u\bibinitperiod}{}{}{}{}{}{}}%
       }
-      \strng{namehash}{4a4654f38a8537e08be9137bd97cfdc9}
-      \strng{fullhash}{4a4654f38a8537e08be9137bd97cfdc9}
-      \field{sortinit}{F}
-      \field{labeltitle}{Steckbrief zu: Entoloma clypeatum}
-      \field{title}{Steckbrief zu: Entoloma clypeatum}
-      \field{urlday}{03}
+      \strng{namehash}{30fc2a4fa5040b63f269a5926226af0a}
+      \strng{fullhash}{30fc2a4fa5040b63f269a5926226af0a}
+      \field{sortinit}{f}
+      \field{labeltitle}{Fakten über Seitlinge}
+      \field{note}{Navigation: Suche, Seitlinge}
+      \field{title}{Fakten über Seitlinge}
+      \field{urlday}{05}
       \field{urlmonth}{07}
       \field{urlyear}{2014}
       \verb{url}
-      \verb http://www.fredis-pilzseite.de/entoloma-clypeatum-1/
+      \verb http://fakten-uber.de/seitlinge
       \endverb
-      \keyw{schildroetling}
+      \keyw{faktenuber}
+    \endentry
+    \entry{pg_austernseitling}{online}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=9963af3cd2abf5700f0e2bed80d2a1b3}{www.123pilze.de}{w\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=9963af3cd2abf5700f0e2bed80d2a1b3}{www.123pilze.de}{w\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{9963af3cd2abf5700f0e2bed80d2a1b3}
+      \strng{fullhash}{9963af3cd2abf5700f0e2bed80d2a1b3}
+      \field{sortinit}{w}
+      \field{labeltitle}{Pilzgalerie Austernseitling}
+      \field{note}{Navigation: Hauptseite, Pilze nach Alphabet geordnet, Austernseitling}
+      \field{title}{Pilzgalerie Austernseitling}
+      \field{urlday}{05}
+      \field{urlmonth}{07}
+      \field{urlyear}{2014}
+      \verb{url}
+      \verb http://www.123pilze.de/DreamHC/Download/Austernseitling1105.htm
+      \endverb
+      \keyw{www.123pilze.de}
+    \endentry
+    \entry{pilzech}{online}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=de9c8852d46335d1cd0365defcdec699}{www.pilze.ch}{w\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=de9c8852d46335d1cd0365defcdec699}{www.pilze.ch}{w\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{de9c8852d46335d1cd0365defcdec699}
+      \strng{fullhash}{de9c8852d46335d1cd0365defcdec699}
+      \field{sortinit}{w}
+      \field{labeltitle}{Pilzbestimmung Pleurotus}
+      \field{note}{Navigation: Hauptseite, Pilzbestimmung, Gattungen und Arten, Pleurotus}
+      \field{title}{Pilzbestimmung Pleurotus}
+      \field{urlday}{05}
+      \field{urlmonth}{07}
+      \field{urlyear}{2014}
+      \verb{url}
+      \verb http://www.pilze.ch/pilzbestimmung/artenlisten/Pleurotus.htm
+      \endverb
+      \keyw{pilze.ch}
+    \endentry
+    \entry{vital}{online}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=25adf60a4ec711cb01225099bcb39cd6}{www.vitalpilzratgeber.de}{w\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=25adf60a4ec711cb01225099bcb39cd6}{www.vitalpilzratgeber.de}{w\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{25adf60a4ec711cb01225099bcb39cd6}
+      \strng{fullhash}{25adf60a4ec711cb01225099bcb39cd6}
+      \field{sortinit}{w}
+      \field{labeltitle}{Vitalpilzratgeber}
+      \field{note}{Navigation: Hauptseite, Pleurotus}
+      \field{title}{Vitalpilzratgeber}
+      \field{urlday}{05}
+      \field{urlmonth}{07}
+      \field{urlyear}{2014}
+      \verb{url}
+      \verb http://www.vitalpilzratgeber.de/pleurotus/
+      \endverb
+      \keyw{www.vitalpilzratgeber.de}
     \endentry
   \endsortlist
 \endrefsection
