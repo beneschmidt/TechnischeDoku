@@ -1969,7 +1969,12 @@
     <bcf:citekey order="3">faktenuber</bcf:citekey>
     <bcf:citekey order="4">pilzech</bcf:citekey>
     <bcf:citekey order="5">pg_austernseitling</bcf:citekey>
-    <bcf:citekey order="6">vital</bcf:citekey>
+    <bcf:citekey order="6">faktenuber</bcf:citekey>
+    <bcf:citekey order="7">tintling_auster</bcf:citekey>
+    <bcf:citekey order="8">pilzfinder_austernseitling_image</bcf:citekey>
+    <bcf:citekey order="9">vital</bcf:citekey>
+    <bcf:citekey order="10">pg_ohrfoermig</bcf:citekey>
+    <bcf:citekey order="11">deutschlandradio</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" type="entry" label="nty">
   <bcf:sorting>

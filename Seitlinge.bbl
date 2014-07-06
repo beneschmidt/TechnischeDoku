@@ -40,6 +40,53 @@
       \endverb
       \keyw{faktenuber}
     \endentry
+    \entry{pilzfinder_austernseitling_image}{online}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=987b54cb114f39ff2763601ca8c9f872}{Mathes}{M\bibinitperiod}{Jürgen}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=987b54cb114f39ff2763601ca8c9f872}{Mathes}{M\bibinitperiod}{Jürgen}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{987b54cb114f39ff2763601ca8c9f872}
+      \strng{fullhash}{987b54cb114f39ff2763601ca8c9f872}
+      \field{sortinit}{M}
+      \field{labeltitle}{Austernseitling}
+      \field{day}{1}
+      \field{month}{01}
+      \field{note}{Navigation: Hauptseite, Pilze von A -- Z, Austernseitling, oberstes Bild}
+      \field{title}{Austernseitling}
+      \field{urlday}{06}
+      \field{urlmonth}{07}
+      \field{urlyear}{2014}
+      \field{year}{2012}
+      \verb{url}
+      \verb http://www.pilzfinder.de/highlight/auster2.jpg
+      \endverb
+      \keyw{www.pilzfinder.de}
+    \endentry
+    \entry{deutschlandradio}{online}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=98be8488cfce6463651df725a240c700}{Pollmer}{P\bibinitperiod}{Udo}{U\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=98be8488cfce6463651df725a240c700}{Pollmer}{P\bibinitperiod}{Udo}{U\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{98be8488cfce6463651df725a240c700}
+      \strng{fullhash}{98be8488cfce6463651df725a240c700}
+      \field{sortinit}{P}
+      \field{labeltitle}{Speisepilz wird Giftpilz}
+      \field{month}{06}
+      \field{note}{Navigation: Hauptseite, Suche nach \emph{Speisepilz wird Giftpilz}, Ohrförmiger Seitling}
+      \field{title}{Speisepilz wird Giftpilz}
+      \field{urlday}{06}
+      \field{urlmonth}{07}
+      \field{urlyear}{2014}
+      \field{year}{2008}
+      \verb{url}
+      \verb http://www.deutschlandradiokultur.de/speisepilz-wird-giftpilz.993.de.html?dram:article_id=154417
+      \endverb
+      \keyw{www.deutschlandradiokultur.de}
+    \endentry
     \entry{pg_austernseitling}{online}{}
       \name{labelname}{1}{}{%
         {{uniquename=0,hash=9963af3cd2abf5700f0e2bed80d2a1b3}{www.123pilze.de}{w\bibinitperiod}{}{}{}{}{}{}}%
@@ -58,6 +105,27 @@
       \field{urlyear}{2014}
       \verb{url}
       \verb http://www.123pilze.de/DreamHC/Download/Austernseitling1105.htm
+      \endverb
+      \keyw{www.123pilze.de}
+    \endentry
+    \entry{pg_ohrfoermig}{online}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=9963af3cd2abf5700f0e2bed80d2a1b3}{www.123pilze.de}{w\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=9963af3cd2abf5700f0e2bed80d2a1b3}{www.123pilze.de}{w\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{9963af3cd2abf5700f0e2bed80d2a1b3}
+      \strng{fullhash}{9963af3cd2abf5700f0e2bed80d2a1b3}
+      \field{sortinit}{w}
+      \field{labeltitle}{Pilzgalerie Ohrförmiger Seitling}
+      \field{note}{Navigation: Hauptseite, Pilze nach Alphabet geordnet, Ohrförmiger Seitling}
+      \field{title}{Pilzgalerie Ohrförmiger Seitling}
+      \field{urlday}{06}
+      \field{urlmonth}{07}
+      \field{urlyear}{2014}
+      \verb{url}
+      \verb http://www.123pilze.de/DreamHC/Download/OhrfoermigerSeitling.htm
       \endverb
       \keyw{www.123pilze.de}
     \endentry
@@ -81,6 +149,27 @@
       \verb http://www.pilze.ch/pilzbestimmung/artenlisten/Pleurotus.htm
       \endverb
       \keyw{pilze.ch}
+    \endentry
+    \entry{tintling_auster}{online}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=32921a4ed4e27230b5d39a1b437da6e4}{www.tintling.com}{w\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=32921a4ed4e27230b5d39a1b437da6e4}{www.tintling.com}{w\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{32921a4ed4e27230b5d39a1b437da6e4}
+      \strng{fullhash}{32921a4ed4e27230b5d39a1b437da6e4}
+      \field{sortinit}{w}
+      \field{labeltitle}{Austernseitling \emph{Pleurotus ostreatus}}
+      \field{note}{Navigation: Hauptseite, Pilzbuch, Gattungen, Pleurotus, Pleurotus ostreatus}
+      \field{title}{Austernseitling \emph{Pleurotus ostreatus}}
+      \field{urlday}{06}
+      \field{urlmonth}{07}
+      \field{urlyear}{2014}
+      \verb{url}
+      \verb http://tintling.com/pilzbuch/arten/p/Pleurotus_ostreatus.html
+      \endverb
+      \keyw{www.tintling.com}
     \endentry
     \entry{vital}{online}{}
       \name{labelname}{1}{}{%
