@@ -16,12 +16,18 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.4.1}Austernseitling}{7}{subsection.2.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.5}Medizinische Bedeutung}{7}{section.2.5}
+\contentsline {subsection}{\numberline {2.4.2}Brauner Kr\IeC {\"a}uter-Seitling}{7}{subsection.2.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.6}Verwechslungsm\IeC {\"o}glichkeiten}{8}{section.2.6}
+\contentsline {subsection}{\numberline {2.4.3}Berindeter Seitling}{8}{subsection.2.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.7}Ernte, Haltbarkeit und richtige Lagerung}{8}{section.2.7}
+\contentsline {section}{\numberline {2.5}Medizinische Bedeutung}{9}{section.2.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.8}Rezept}{8}{section.2.8}
+\contentsline {section}{\numberline {2.6}Verwechslungsm\IeC {\"o}glichkeiten}{9}{section.2.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}Literaturverzeichnis}{9}{chapter.3}
+\contentsline {section}{\numberline {2.7}Rezept -- Kr\IeC {\"a}uterseitlinge mit Nudeln\footcite {rezept}}{10}{section.2.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.7.1}Zutaten}{10}{subsection.2.7.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.7.2}Zubereitung}{10}{subsection.2.7.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Literaturverzeichnis}{11}{chapter.3}

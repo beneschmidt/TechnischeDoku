@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/W32TeX) (format=pdflatex 2014.4.18)  6 JUL 2014 10:27
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/W32TeX) (format=pdflatex 2014.4.18)  8 JUL 2014 08:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -868,20 +868,20 @@ File: german.lbx 2013/11/25 v2.8a biblatex localization (PK/JW/AB)
 (./Seitlinge.aux)
 \openout1 = `Seitlinge.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 111.
-LaTeX Font Info:    ... okay on input line 111.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 111.
-LaTeX Font Info:    ... okay on input line 111.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 111.
-LaTeX Font Info:    ... okay on input line 111.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 111.
-LaTeX Font Info:    ... okay on input line 111.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 111.
-LaTeX Font Info:    ... okay on input line 111.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 111.
-LaTeX Font Info:    ... okay on input line 111.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 111.
-LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 178.
+LaTeX Font Info:    ... okay on input line 178.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 178.
+LaTeX Font Info:    ... okay on input line 178.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 178.
+LaTeX Font Info:    ... okay on input line 178.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 178.
+LaTeX Font Info:    ... okay on input line 178.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 178.
+LaTeX Font Info:    ... okay on input line 178.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 178.
+LaTeX Font Info:    ... okay on input line 178.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 178.
+LaTeX Font Info:    ... okay on input line 178.
 \AtBeginShipoutBox=\box31
  (c:/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -912,7 +912,7 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 111.
+Package hyperref Info: Link coloring OFF on input line 178.
 
 (c:/texlive/2013/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -922,9 +922,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count283
 )
-LaTeX Info: Redefining \ref on input line 111.
-LaTeX Info: Redefining \pageref on input line 111.
-LaTeX Info: Redefining \nameref on input line 111.
+LaTeX Info: Redefining \ref on input line 178.
+LaTeX Info: Redefining \pageref on input line 178.
+LaTeX Info: Redefining \nameref on input line 178.
 
 (./Seitlinge.out) (./Seitlinge.out)
 \@outlinefile=\write4
@@ -938,56 +938,56 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Seitlinge.bbl' found.
  (./Seitlinge.bbl)
-Package biblatex Info: Reference section=0 on input line 111.
-Package biblatex Info: Reference segment=0 on input line 111.
+Package biblatex Info: Reference section=0 on input line 178.
+Package biblatex Info: Reference segment=0 on input line 178.
 
-<Deckblatt_Seitling.pdf, id=52, 597.23125pt x 845.1575pt>
+<Deckblatt_Seitling.pdf, id=64, 597.23125pt x 845.1575pt>
 File: Deckblatt_Seitling.pdf Graphic file (type pdf)
 
 <use Deckblatt_Seitling.pdf>
-Package pdftex.def Info: Deckblatt_Seitling.pdf used on input line 112.
+Package pdftex.def Info: Deckblatt_Seitling.pdf used on input line 179.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 File: Deckblatt_Seitling.pdf Graphic file (type pdf)
  <use Deckblatt_Seitling.pdf>
-Package pdftex.def Info: Deckblatt_Seitling.pdf used on input line 112.
+Package pdftex.def Info: Deckblatt_Seitling.pdf used on input line 179.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 
-<Deckblatt_Seitling.pdf, id=55, page=1, 597.23125pt x 845.1575pt>
+<Deckblatt_Seitling.pdf, id=67, page=1, 597.23125pt x 845.1575pt>
 File: Deckblatt_Seitling.pdf Graphic file (type pdf)
 
 <use Deckblatt_Seitling.pdf, page 1>
-Package pdftex.def Info: Deckblatt_Seitling.pdf, page1 used on input line 112.
+Package pdftex.def Info: Deckblatt_Seitling.pdf, page1 used on input line 179.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 File: Deckblatt_Seitling.pdf Graphic file (type pdf)
  <use Deckblatt_Seitling.pdf, page 1>
-Package pdftex.def Info: Deckblatt_Seitling.pdf, page1 used on input line 112.
+Package pdftex.def Info: Deckblatt_Seitling.pdf, page1 used on input line 179.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
 File: Deckblatt_Seitling.pdf Graphic file (type pdf)
 
 <use Deckblatt_Seitling.pdf, page 1>
-Package pdftex.def Info: Deckblatt_Seitling.pdf, page1 used on input line 112.
+Package pdftex.def Info: Deckblatt_Seitling.pdf, page1 used on input line 179.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
 File: Deckblatt_Seitling.pdf Graphic file (type pdf)
  <use Deckblatt_Seitling.pdf, page 1>
-Package pdftex.def Info: Deckblatt_Seitling.pdf, page1 used on input line 112.
+Package pdftex.def Info: Deckblatt_Seitling.pdf, page1 used on input line 179.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
 File: Deckblatt_Seitling.pdf Graphic file (type pdf)
 
 <use Deckblatt_Seitling.pdf, page 1>
-Package pdftex.def Info: Deckblatt_Seitling.pdf, page1 used on input line 112.
+Package pdftex.def Info: Deckblatt_Seitling.pdf, page1 used on input line 179.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 112.
+(babel)             in language  on input line 179.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 112.
+(babel)             in language  on input line 179.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 112.
+(babel)             in language  on input line 179.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 112.
+(babel)             in language  on input line 179.
  [1
 
  <./Deckblatt_Seitling.pdf>]
-LaTeX Font Info:    Try loading font information for T1+cmss on input line 119.
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 186.
 
 
 (c:/texlive/2013/texmf-dist/tex/latex/base/t1cmss.fd
@@ -999,18 +999,22 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 5.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 27.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 27.
 )
 \tf@toc=\write5
 \openout5 = `Seitlinge.toc'.
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 121.
+(babel)             in language  on input line 188.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 121.
+(babel)             in language  on input line 188.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 121.
+(babel)             in language  on input line 188.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 121.
+(babel)             in language  on input line 188.
 
 [2{c:/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 (./Seitlinge.lof)
@@ -1018,31 +1022,31 @@ Package babel Info: Redefining ngerman shorthand "~
 \openout6 = `Seitlinge.lof'.
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 124.
+(babel)             in language  on input line 191.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 124.
+(babel)             in language  on input line 191.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 124.
+(babel)             in language  on input line 191.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 124.
+(babel)             in language  on input line 191.
  [3]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 128.
+(babel)             in language  on input line 195.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 128.
+(babel)             in language  on input line 195.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 128.
+(babel)             in language  on input line 195.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 128.
+(babel)             in language  on input line 195.
  [4
 
 
 ]
 Kapitel 1.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 130.
+(babel)             in language  on input line 197.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 130.
+(babel)             in language  on input line 197.
 
 Class scrreprt Warning: \float@addtolists detected!
 (scrreprt)              Implementation of \float@addtolist became
@@ -1059,183 +1063,287 @@ Class scrreprt Warning: \float@addtolists detected!
 (scrreprt)              deprecated \float@addtolist interface .
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 133.
+(babel)             in language  on input line 200.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 133.
+(babel)             in language  on input line 200.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 133.
+(babel)             in language  on input line 200.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 133.
+(babel)             in language  on input line 200.
 [5
 
 ]
 Kapitel 2.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 133.
+(babel)             in language  on input line 200.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 133.
+(babel)             in language  on input line 200.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 134.
+(babel)             in language  on input line 201.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 134.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 135.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 135.
+(babel)             in language  on input line 201.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 137.
+(babel)             in language  on input line 204.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 137.
+(babel)             in language  on input line 204.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 142.
+(babel)             in language  on input line 209.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 142.
+(babel)             in language  on input line 209.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 146.
+(babel)             in language  on input line 213.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 146.
+(babel)             in language  on input line 213.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 148.
+(babel)             in language  on input line 215.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 148.
+(babel)             in language  on input line 215.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 148.
+(babel)             in language  on input line 215.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 148.
+(babel)             in language  on input line 215.
 [6
 
 ]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 149.
+(babel)             in language  on input line 216.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 149.
- <img/auster2.jpg, id=144, 385.44pt x 262.581pt>
+(babel)             in language  on input line 216.
+ <img/auster2.jpg, id=176, 289.08pt x 197.0562pt>
 File: img/auster2.jpg Graphic file (type jpg)
  <use img/auster2.jpg>
-Package pdftex.def Info: img/auster2.jpg used on input line 156.
-(pdftex.def)             Requested size: 154.17326pt x 105.03052pt.
+Package pdftex.def Info: img/auster2.jpg used on input line 223.
+(pdftex.def)             Requested size: 200.75073pt x 136.8439pt.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 162.
+(babel)             in language  on input line 229.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 162.
+(babel)             in language  on input line 229.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 167.
+(babel)             in language  on input line 233.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 167.
+(babel)             in language  on input line 233.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 167.
+(babel)             in language  on input line 233.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 167.
+(babel)             in language  on input line 233.
 
 [7pdfTeX warning (ext4): destination with the same identifier (name{figure.2.1}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.167 
+l.233 
        <./img/auster2.jpg>]
+<img/kraeuterseitling.jpg, id=193, 144.54pt x 108.405pt>
+File: img/kraeuterseitling.jpg Graphic file (type jpg)
+
+<use img/kraeuterseitling.jpg>
+Package pdftex.def Info: img/kraeuterseitling.jpg used on input line 236.
+(pdftex.def)             Requested size: 200.75073pt x 150.57167pt.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 168.
+(babel)             in language  on input line 242.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 168.
+(babel)             in language  on input line 242.
+
+<img/berindeter_seitling.jpg, id=201, 120.45pt x 78.5334pt>
+File: img/berindeter_seitling.jpg Graphic file (type jpg)
+
+<use img/berindeter_seitling.jpg>
+Package pdftex.def Info: img/berindeter_seitling.jpg used on input line 253.
+(pdftex.def)             Requested size: 200.75073pt x 130.90225pt.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 171.
+(babel)             in language  on input line 257.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 171.
+(babel)             in language  on input line 257.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 173.
+(babel)             in language  on input line 257.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 173.
+(babel)             in language  on input line 257.
+ [8pdfTeX warning (ext4): destination with the same identifier (name{figure.2.2
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.257 ...\cite{fotocom_berindeter_seitling_image}}
+                                                   <./img/kraeuterseitling.jpg>
+]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 175.
+(babel)             in language  on input line 259.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 175.
+(babel)             in language  on input line 259.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 175.
+(babel)             in language  on input line 265.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 175.
- [8]
+(babel)             in language  on input line 265.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 269.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 269.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 269.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 269.
+ [9pdfTeX warning (ext4): destination with the same identifier (name{figure.2.3
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.269 
+       <./img/berindeter_seitling.jpg>]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 270.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 270.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 270.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 270.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\footcite' on input line 270.
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 274.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 274.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 276.
+
+(c:/texlive/2013/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 276.
+
+<img/rezept.jpg, id=239, 355.3275pt x 266.9975pt>
+File: img/rezept.jpg Graphic file (type jpg)
+ <use img/rezept.jpg>
+Package pdftex.def Info: img/rezept.jpg used on input line 293.
+(pdftex.def)             Requested size: 150.56305pt x 113.1363pt.
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 289--299
+[][] 
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 302.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 302.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 309.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 309.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 309.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 309.
+[10pdfTeX warning (ext4): destination with the same identifier (name{figure.2.4
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.309 \printbibliography[heading=lit]
+                                      <./img/rezept.jpg>]
 Kapitel 3.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 175.
+(babel)             in language  on input line 309.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 175.
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 175.
+(babel)             in language  on input line 309.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 309.
 
 (c:/texlive/2013/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-Overfull \hbox (2.15857pt too wide) in paragraph at lines 175--175
-\T1/cmr/m/it/10.95 Gift-pilz\T1/cmr/m/n/10.95 , Ohr-för-mi-ger Seit-ling. Ju-ni
- 2008. \T1/cmr/m/sc/10.95 url\T1/cmr/m/n/10.95 : []$\T1/cmtt/m/n/10.95 http : /
- / www . deutschlandradiokultur .
+Overfull \hbox (18.67839pt too wide) in paragraph at lines 309--309
+\T1/cmr/m/n/10.95 zept. 12. März 2010. \T1/cmr/m/sc/10.95 url\T1/cmr/m/n/10.95 
+: []$\T1/cmtt/m/n/10.95 http : / / www . kochbar . de / rezept / 314872 / Kraeu
+terseitlinge .
  []
 
 
-Overfull \hbox (22.82771pt too wide) in paragraph at lines 175--175
-\T1/cmr/m/n/10.95 tun-gen und Ar-ten, Pleu-ro-tus. \T1/cmr/m/sc/10.95 url\T1/cm
-r/m/n/10.95 : []$\T1/cmtt/m/n/10.95 http : / / www . pilze . ch / pilzbestimmun
-g / artenlisten /
+Overfull \hbox (33.98889pt too wide) in paragraph at lines 309--309
+\T1/cmr/m/n/10.95 Aus-tern-seit-ling. \T1/cmr/m/sc/10.95 url\T1/cmr/m/n/10.95 :
+ []$\T1/cmtt/m/n/10.95 http : / / www . 123pilze . de / DreamHC / Download / Au
+sternseitling1105 .
  []
 
 
-Overfull \hbox (5.59102pt too wide) in paragraph at lines 175--175
-[][]\T1/cmr/m/n/10.95 www.vitalpilzratgeber.de. \T1/cmr/m/it/10.95 Vi-tal-pilz-
-rat-ge-ber\T1/cmr/m/n/10.95 . Na-vi-ga-ti-on: Haupt-sei-te, Pleu-ro-tus. \T1/cm
-r/m/sc/10.95 url\T1/cmr/m/n/10.95 : []$\T1/cmtt/m/n/10.95 http :
+Overfull \hbox (20.47746pt too wide) in paragraph at lines 309--309
+\T1/cmr/m/n/10.95 ger Seit-ling. \T1/cmr/m/sc/10.95 url\T1/cmr/m/n/10.95 : []$\
+T1/cmtt/m/n/10.95 http : / / www . 123pilze . de / DreamHC / Download / Ohrfoer
+migerSeitling .
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 177.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 177.
+(babel)             in language  on input line 309.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 177.
+(babel)             in language  on input line 309.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 177.
+(babel)             in language  on input line 309.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 177.
-[9
+(babel)             in language  on input line 309.
+[11
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 177.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 311.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 311.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 311.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 311.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 311.
+ [12]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 311.
  (./Seitlinge.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 177.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 177.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 311.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 311.
 Package rerunfilecheck Info: File `Seitlinge.out' has not changed.
-(rerunfilecheck)             Checksum: A9CFD3382810DE5BE650605965BF86A6;717.
+(rerunfilecheck)             Checksum: 6FB14887CBEBC358415D2E0360034D9B;952.
 Package logreq Info: Writing requests to 'Seitlinge.run.xml'.
 \openout1 = `Seitlinge.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 177.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 311.
  ) 
 Here is how much of TeX's memory you used:
- 14860 strings out of 493308
- 236529 string characters out of 6141367
- 731278 words of memory out of 5000000
- 18053 multiletter control sequences out of 15000+600000
- 18913 words of font info for 42 fonts, out of 8000000 for 9000
+ 14968 strings out of 493308
+ 238422 string characters out of 6141367
+ 733663 words of memory out of 5000000
+ 18120 multiletter control sequences out of 15000+600000
+ 21353 words of font info for 47 fonts, out of 8000000 for 9000
  961 hyphenation exceptions out of 8191
- 43i,18n,67p,954b,1517s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exi
+ 43i,19n,67p,954b,2561s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{Hfootnote.5} has been referenced but does not exi
 st, replaced by a fixed one
 
+pdfTeX warning (dest): name{Hfootnote.4} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.3} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist
+, replaced by a fixed one
+
 {c:/texlive/2013/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}<c:/texliv
-e/2013/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb><c:/texlive/2013/tex
-mf-dist/fonts/type1/public/cm-super/sfcc1095.pfb><c:/texlive/2013/texmf-dist/fo
-nts/type1/public/cm-super/sfrm0600.pfb><c:/texlive/2013/texmf-dist/fonts/type1/
-public/cm-super/sfrm0800.pfb><c:/texlive/2013/texmf-dist/fonts/type1/public/cm-
-super/sfrm0900.pfb><c:/texlive/2013/texmf-dist/fonts/type1/public/cm-super/sfrm
-1095.pfb><c:/texlive/2013/texmf-dist/fonts/type1/public/cm-super/sfsx1095.pfb><
-c:/texlive/2013/texmf-dist/fonts/type1/public/cm-super/sfsx1200.pfb><c:/texlive
-/2013/texmf-dist/fonts/type1/public/cm-super/sfsx1440.pfb><c:/texlive/2013/texm
-f-dist/fonts/type1/public/cm-super/sfsx2074.pfb><c:/texlive/2013/texmf-dist/fon
-ts/type1/public/cm-super/sfti0900.pfb><c:/texlive/2013/texmf-dist/fonts/type1/p
-ublic/cm-super/sfti1095.pfb><c:/texlive/2013/texmf-dist/fonts/type1/public/cm-s
-uper/sftt1095.pfb>
-Output written on Seitlinge.pdf (9 pages, 491997 bytes).
+e/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2013/te
+xmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb><c:/texlive/2013/texmf-dist/f
+onts/type1/public/cm-super/sfcc1095.pfb><c:/texlive/2013/texmf-dist/fonts/type1
+/public/cm-super/sfrm0600.pfb><c:/texlive/2013/texmf-dist/fonts/type1/public/cm
+-super/sfrm0800.pfb><c:/texlive/2013/texmf-dist/fonts/type1/public/cm-super/sfr
+m0900.pfb><c:/texlive/2013/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
+<c:/texlive/2013/texmf-dist/fonts/type1/public/cm-super/sfsx1000.pfb><c:/texliv
+e/2013/texmf-dist/fonts/type1/public/cm-super/sfsx1095.pfb><c:/texlive/2013/tex
+mf-dist/fonts/type1/public/cm-super/sfsx1200.pfb><c:/texlive/2013/texmf-dist/fo
+nts/type1/public/cm-super/sfsx1440.pfb><c:/texlive/2013/texmf-dist/fonts/type1/
+public/cm-super/sfsx2074.pfb><c:/texlive/2013/texmf-dist/fonts/type1/public/cm-
+super/sfti0900.pfb><c:/texlive/2013/texmf-dist/fonts/type1/public/cm-super/sfti
+1095.pfb><c:/texlive/2013/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb>
+Output written on Seitlinge.pdf (12 pages, 638947 bytes).
 PDF statistics:
- 255 PDF objects out of 1000 (max. 8388607)
- 218 compressed objects within 3 object streams
- 43 named destinations out of 1000 (max. 500000)
- 122 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 366 PDF objects out of 1000 (max. 8388607)
+ 317 compressed objects within 4 object streams
+ 74 named destinations out of 1000 (max. 500000)
+ 161 words of extra memory for PDF output out of 10000 (max. 10000000)
 
