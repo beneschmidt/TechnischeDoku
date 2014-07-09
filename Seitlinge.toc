@@ -24,7 +24,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.6}Verwechslungsm\IeC {\"o}glichkeiten}{9}{section.2.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.7}Rezept -- Kr\IeC {\"a}uterseitlinge mit Nudeln\footcite {rezept}}{10}{section.2.7}
+\contentsline {section}{\numberline {2.7}Rezept -- Kr\IeC {\"a}uterseitlinge mit Nudeln}{10}{section.2.7}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.7.1}Zutaten}{10}{subsection.2.7.1}
 \defcounter {refsection}{0}\relax 
