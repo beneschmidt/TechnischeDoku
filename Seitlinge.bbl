@@ -19,6 +19,48 @@
 
 \refsection{0}
   \sortlist{entry}{nty}
+    \entry{pg_austernseitling}{online}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=59aba5ba6a9b961bd457dfe9d2ee30b2}{123pilze.de}{1\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=59aba5ba6a9b961bd457dfe9d2ee30b2}{123pilze.de}{1\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{59aba5ba6a9b961bd457dfe9d2ee30b2}
+      \strng{fullhash}{59aba5ba6a9b961bd457dfe9d2ee30b2}
+      \field{sortinit}{1}
+      \field{labeltitle}{Pilzgalerie Austernseitling}
+      \field{note}{Navigation: Pilze nach Alphabet geordnet, Austernseitling}
+      \field{title}{Pilzgalerie Austernseitling}
+      \field{urlday}{05}
+      \field{urlmonth}{07}
+      \field{urlyear}{2014}
+      \verb{url}
+      \verb http://www.123pilze.de/DreamHC/Download/Austernseitling1105.htm
+      \endverb
+      \keyw{www.123pilze.de}
+    \endentry
+    \entry{pg_ohrfoermig}{online}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=59aba5ba6a9b961bd457dfe9d2ee30b2}{123pilze.de}{1\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=59aba5ba6a9b961bd457dfe9d2ee30b2}{123pilze.de}{1\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{59aba5ba6a9b961bd457dfe9d2ee30b2}
+      \strng{fullhash}{59aba5ba6a9b961bd457dfe9d2ee30b2}
+      \field{sortinit}{1}
+      \field{labeltitle}{Pilzgalerie Ohrförmiger Seitling}
+      \field{note}{Navigation: Pilze nach Alphabet geordnet, Ohrförmiger Seitling}
+      \field{title}{Pilzgalerie Ohrförmiger Seitling}
+      \field{urlday}{06}
+      \field{urlmonth}{07}
+      \field{urlyear}{2014}
+      \verb{url}
+      \verb http://www.123pilze.de/DreamHC/Download/OhrfoermigerSeitling.htm
+      \endverb
+      \keyw{www.123pilze.de}
+    \endentry
     \entry{faktenuber_berindet}{online}{}
       \name{labelname}{1}{}{%
         {{uniquename=0,hash=30fc2a4fa5040b63f269a5926226af0a}{fakten-uber.de}{f\bibinithyphendelim u\bibinitperiod}{}{}{}{}{}{}}%
@@ -85,6 +127,27 @@
       \endverb
       \keyw{www.pilzfinder.de}
     \endentry
+    \entry{pilzech}{online}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=1404f0d8920e66de20e78a15fb4f90cc}{pilze.ch}{p\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=1404f0d8920e66de20e78a15fb4f90cc}{pilze.ch}{p\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{1404f0d8920e66de20e78a15fb4f90cc}
+      \strng{fullhash}{1404f0d8920e66de20e78a15fb4f90cc}
+      \field{sortinit}{p}
+      \field{labeltitle}{Pilzbestimmung Pleurotus}
+      \field{note}{Navigation: Pilzbestimmung, Gattungen und Arten, Pleurotus}
+      \field{title}{Pilzbestimmung Pleurotus}
+      \field{urlday}{05}
+      \field{urlmonth}{07}
+      \field{urlyear}{2014}
+      \verb{url}
+      \verb http://www.pilze.ch/pilzbestimmung/artenlisten/Pleurotus.htm
+      \endverb
+      \keyw{pilze.ch}
+    \endentry
     \entry{deutschlandradio}{online}{}
       \name{labelname}{1}{}{%
         {{uniquename=0,hash=e972a63840c56b8901ddc54445be7399}{POLLMER}{P\bibinitperiod}{Udo}{U\bibinitperiod}{}{}{}{}}%
@@ -107,30 +170,6 @@
       \verb http://www.deutschlandradiokultur.de/speisepilz-wird-giftpilz.993.de.html?dram:article_id=154417
       \endverb
       \keyw{www.deutschlandradiokultur.de}
-    \endentry
-    \entry{fungi_kraeuterseitling_image}{online}{}
-      \name{labelname}{1}{}{%
-        {{uniquename=0,hash=17883c4b0d08e45e46818a9810a9cfdd}{REGIN}{R\bibinitperiod}{Harry}{H\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{uniquename=0,hash=17883c4b0d08e45e46818a9810a9cfdd}{REGIN}{R\bibinitperiod}{Harry}{H\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{17883c4b0d08e45e46818a9810a9cfdd}
-      \strng{fullhash}{17883c4b0d08e45e46818a9810a9cfdd}
-      \field{sortinit}{R}
-      \field{labeltitle}{Brauner Kräuter-Seitling}
-      \field{day}{26}
-      \field{month}{10}
-      \field{note}{Navigation: Datenbank, Unterpunkt P, Pleurotus aufklappen, Pleurotus eryngii anklicken, rechtes Bild}
-      \field{title}{Brauner Kräuter-Seitling}
-      \field{urlday}{06}
-      \field{urlmonth}{07}
-      \field{urlyear}{2014}
-      \field{year}{2005}
-      \verb{url}
-      \verb http://www.fungiworld.com/datenbank/GrossBild.php4?Pilz=2293&bildnum=1&Autor=Harry%20Regin&name=Pleurotus%20eryngii
-      \endverb
-      \keyw{http://www.fungiworld.com/}
     \endentry
     \entry{rezept}{online}{}
       \name{labelname}{1}{}{%
@@ -180,79 +219,16 @@
       \endverb
       \keyw{www.kochbar.de}
     \endentry
-    \entry{pg_austernseitling}{online}{}
-      \name{labelname}{1}{}{%
-        {{uniquename=0,hash=9963af3cd2abf5700f0e2bed80d2a1b3}{www.123pilze.de}{w\bibinitperiod}{}{}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{uniquename=0,hash=9963af3cd2abf5700f0e2bed80d2a1b3}{www.123pilze.de}{w\bibinitperiod}{}{}{}{}{}{}}%
-      }
-      \strng{namehash}{9963af3cd2abf5700f0e2bed80d2a1b3}
-      \strng{fullhash}{9963af3cd2abf5700f0e2bed80d2a1b3}
-      \field{sortinit}{w}
-      \field{labeltitle}{Pilzgalerie Austernseitling}
-      \field{note}{Navigation: Pilze nach Alphabet geordnet, Austernseitling}
-      \field{title}{Pilzgalerie Austernseitling}
-      \field{urlday}{05}
-      \field{urlmonth}{07}
-      \field{urlyear}{2014}
-      \verb{url}
-      \verb http://www.123pilze.de/DreamHC/Download/Austernseitling1105.htm
-      \endverb
-      \keyw{www.123pilze.de}
-    \endentry
-    \entry{pg_ohrfoermig}{online}{}
-      \name{labelname}{1}{}{%
-        {{uniquename=0,hash=9963af3cd2abf5700f0e2bed80d2a1b3}{www.123pilze.de}{w\bibinitperiod}{}{}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{uniquename=0,hash=9963af3cd2abf5700f0e2bed80d2a1b3}{www.123pilze.de}{w\bibinitperiod}{}{}{}{}{}{}}%
-      }
-      \strng{namehash}{9963af3cd2abf5700f0e2bed80d2a1b3}
-      \strng{fullhash}{9963af3cd2abf5700f0e2bed80d2a1b3}
-      \field{sortinit}{w}
-      \field{labeltitle}{Pilzgalerie Ohrförmiger Seitling}
-      \field{note}{Navigation: Pilze nach Alphabet geordnet, Ohrförmiger Seitling}
-      \field{title}{Pilzgalerie Ohrförmiger Seitling}
-      \field{urlday}{06}
-      \field{urlmonth}{07}
-      \field{urlyear}{2014}
-      \verb{url}
-      \verb http://www.123pilze.de/DreamHC/Download/OhrfoermigerSeitling.htm
-      \endverb
-      \keyw{www.123pilze.de}
-    \endentry
-    \entry{pilzech}{online}{}
-      \name{labelname}{1}{}{%
-        {{uniquename=0,hash=de9c8852d46335d1cd0365defcdec699}{www.pilze.ch}{w\bibinitperiod}{}{}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{uniquename=0,hash=de9c8852d46335d1cd0365defcdec699}{www.pilze.ch}{w\bibinitperiod}{}{}{}{}{}{}}%
-      }
-      \strng{namehash}{de9c8852d46335d1cd0365defcdec699}
-      \strng{fullhash}{de9c8852d46335d1cd0365defcdec699}
-      \field{sortinit}{w}
-      \field{labeltitle}{Pilzbestimmung Pleurotus}
-      \field{note}{Navigation: Pilzbestimmung, Gattungen und Arten, Pleurotus}
-      \field{title}{Pilzbestimmung Pleurotus}
-      \field{urlday}{05}
-      \field{urlmonth}{07}
-      \field{urlyear}{2014}
-      \verb{url}
-      \verb http://www.pilze.ch/pilzbestimmung/artenlisten/Pleurotus.htm
-      \endverb
-      \keyw{pilze.ch}
-    \endentry
     \entry{tintling_auster}{online}{}
       \name{labelname}{1}{}{%
-        {{uniquename=0,hash=32921a4ed4e27230b5d39a1b437da6e4}{www.tintling.com}{w\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=6b0fef7d0a328780aaf746b16f198635}{tintling.com}{t\bibinitperiod}{}{}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{uniquename=0,hash=32921a4ed4e27230b5d39a1b437da6e4}{www.tintling.com}{w\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=6b0fef7d0a328780aaf746b16f198635}{tintling.com}{t\bibinitperiod}{}{}{}{}{}{}}%
       }
-      \strng{namehash}{32921a4ed4e27230b5d39a1b437da6e4}
-      \strng{fullhash}{32921a4ed4e27230b5d39a1b437da6e4}
-      \field{sortinit}{w}
+      \strng{namehash}{6b0fef7d0a328780aaf746b16f198635}
+      \strng{fullhash}{6b0fef7d0a328780aaf746b16f198635}
+      \field{sortinit}{t}
       \field{labeltitle}{Austernseitling Pleurotus ostreatus}
       \field{note}{Navigation: Pilzbuch, Gattungen, Pleurotus, Pleurotus ostreatus}
       \field{title}{Austernseitling Pleurotus ostreatus}
@@ -266,14 +242,14 @@
     \endentry
     \entry{tintling_berindet}{online}{}
       \name{labelname}{1}{}{%
-        {{uniquename=0,hash=32921a4ed4e27230b5d39a1b437da6e4}{www.tintling.com}{w\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=6b0fef7d0a328780aaf746b16f198635}{tintling.com}{t\bibinitperiod}{}{}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{uniquename=0,hash=32921a4ed4e27230b5d39a1b437da6e4}{www.tintling.com}{w\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=6b0fef7d0a328780aaf746b16f198635}{tintling.com}{t\bibinitperiod}{}{}{}{}{}{}}%
       }
-      \strng{namehash}{32921a4ed4e27230b5d39a1b437da6e4}
-      \strng{fullhash}{32921a4ed4e27230b5d39a1b437da6e4}
-      \field{sortinit}{w}
+      \strng{namehash}{6b0fef7d0a328780aaf746b16f198635}
+      \strng{fullhash}{6b0fef7d0a328780aaf746b16f198635}
+      \field{sortinit}{t}
       \field{labeltitle}{Berindeter Seitling Pleurotus dryinus}
       \field{note}{Navigation: Pilzbuch, Gattungen, Pleurotus, Pleurotus dryinus}
       \field{title}{Berindeter Seitling Pleurotus dryinus}
@@ -287,14 +263,14 @@
     \endentry
     \entry{tintling_kraeuter}{online}{}
       \name{labelname}{1}{}{%
-        {{uniquename=0,hash=32921a4ed4e27230b5d39a1b437da6e4}{www.tintling.com}{w\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=6b0fef7d0a328780aaf746b16f198635}{tintling.com}{t\bibinitperiod}{}{}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{uniquename=0,hash=32921a4ed4e27230b5d39a1b437da6e4}{www.tintling.com}{w\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=6b0fef7d0a328780aaf746b16f198635}{tintling.com}{t\bibinitperiod}{}{}{}{}{}{}}%
       }
-      \strng{namehash}{32921a4ed4e27230b5d39a1b437da6e4}
-      \strng{fullhash}{32921a4ed4e27230b5d39a1b437da6e4}
-      \field{sortinit}{w}
+      \strng{namehash}{6b0fef7d0a328780aaf746b16f198635}
+      \strng{fullhash}{6b0fef7d0a328780aaf746b16f198635}
+      \field{sortinit}{t}
       \field{labeltitle}{Brauner Kräuter-SeitlingPleurotus eryngii}
       \field{note}{Navigation: Pilzbuch, Gattungen, Pleurotus, Pleurotus eryngii}
       \field{title}{Brauner Kräuter-SeitlingPleurotus eryngii}
@@ -308,14 +284,14 @@
     \endentry
     \entry{vital}{online}{}
       \name{labelname}{1}{}{%
-        {{uniquename=0,hash=25adf60a4ec711cb01225099bcb39cd6}{www.vitalpilzratgeber.de}{w\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=749aac18bfd3162723dde40e8d495b4f}{vitalpilzratgeber.de}{v\bibinitperiod}{}{}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{uniquename=0,hash=25adf60a4ec711cb01225099bcb39cd6}{www.vitalpilzratgeber.de}{w\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=749aac18bfd3162723dde40e8d495b4f}{vitalpilzratgeber.de}{v\bibinitperiod}{}{}{}{}{}{}}%
       }
-      \strng{namehash}{25adf60a4ec711cb01225099bcb39cd6}
-      \strng{fullhash}{25adf60a4ec711cb01225099bcb39cd6}
-      \field{sortinit}{w}
+      \strng{namehash}{749aac18bfd3162723dde40e8d495b4f}
+      \strng{fullhash}{749aac18bfd3162723dde40e8d495b4f}
+      \field{sortinit}{v}
       \field{labeltitle}{Vitalpilzratgeber}
       \field{note}{Navigation: Pleurotus}
       \field{title}{Vitalpilzratgeber}
@@ -326,6 +302,27 @@
       \verb http://www.vitalpilzratgeber.de/pleurotus/
       \endverb
       \keyw{www.vitalpilzratgeber.de}
+    \endentry
+    \entry{tintling:kraeuterseitling_image}{online}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=3b6d5e4c97bbfc10496404b769c227ff}{WILHELM}{W\bibinitperiod}{Markus}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=3b6d5e4c97bbfc10496404b769c227ff}{WILHELM}{W\bibinitperiod}{Markus}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3b6d5e4c97bbfc10496404b769c227ff}
+      \strng{fullhash}{3b6d5e4c97bbfc10496404b769c227ff}
+      \field{sortinit}{W}
+      \field{labeltitle}{Brauner Kräuter-Seitling}
+      \field{note}{Navigation: Pilzbuch, Gattungen, Pleurotus, Pleurotus eryngii}
+      \field{title}{Brauner Kräuter-Seitling}
+      \field{urlday}{06}
+      \field{urlmonth}{08}
+      \field{urlyear}{2014}
+      \verb{url}
+      \verb http://www.tintling.com/pilzbuch/pilzbilder/Pleurotus_eryngii.jpg
+      \endverb
+      \keyw{http://www.tintling.com/}
     \endentry
     \entry{fotocom_berindeter_seitling_image}{online}{}
       \name{labelname}{1}{}{%

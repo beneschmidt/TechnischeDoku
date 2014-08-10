@@ -1973,7 +1973,7 @@
     <bcf:citekey order="7">tintling_auster</bcf:citekey>
     <bcf:citekey order="8">pilzfinder_austernseitling_image</bcf:citekey>
     <bcf:citekey order="9">tintling_kraeuter</bcf:citekey>
-    <bcf:citekey order="10">fungi_kraeuterseitling_image</bcf:citekey>
+    <bcf:citekey order="10">tintling:kraeuterseitling_image</bcf:citekey>
     <bcf:citekey order="11">tintling_berindet</bcf:citekey>
     <bcf:citekey order="12">faktenuber_berindet</bcf:citekey>
     <bcf:citekey order="13">fotocom_berindeter_seitling_image</bcf:citekey>
