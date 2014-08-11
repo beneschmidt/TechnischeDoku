@@ -61,47 +61,65 @@
       \endverb
       \keyw{www.123pilze.de}
     \endentry
-    \entry{faktenuber_berindet}{online}{}
+    \entry{duden:seitlinge}{online}{}
       \name{labelname}{1}{}{%
-        {{uniquename=0,hash=30fc2a4fa5040b63f269a5926226af0a}{fakten-uber.de}{f\bibinithyphendelim u\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=c9f1f2cbc8cf9ee28c818c73485b3c6e}{duden.de}{d\bibinitperiod}{}{}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{uniquename=0,hash=30fc2a4fa5040b63f269a5926226af0a}{fakten-uber.de}{f\bibinithyphendelim u\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=c9f1f2cbc8cf9ee28c818c73485b3c6e}{duden.de}{d\bibinitperiod}{}{}{}{}{}{}}%
       }
-      \strng{namehash}{30fc2a4fa5040b63f269a5926226af0a}
-      \strng{fullhash}{30fc2a4fa5040b63f269a5926226af0a}
-      \field{sortinit}{f}
-      \field{labeltitle}{Fakten über Berindeter Seitling}
-      \field{note}{Navigation: Suche, Berindeter Seitling}
-      \field{title}{Fakten über Berindeter Seitling}
-      \field{urlday}{08}
-      \field{urlmonth}{07}
+      \strng{namehash}{c9f1f2cbc8cf9ee28c818c73485b3c6e}
+      \strng{fullhash}{c9f1f2cbc8cf9ee28c818c73485b3c6e}
+      \field{sortinit}{d}
+      \field{labeltitle}{Definition Seitlinge}
+      \field{note}{Navigation: Suche, Seitling, erster Treffer}
+      \field{title}{Definition Seitlinge}
+      \field{urlday}{10}
+      \field{urlmonth}{08}
       \field{urlyear}{2014}
       \verb{url}
-      \verb http://fakten-uber.de/berindeter_seitling
+      \verb http://www.duden.de/suchen/dudenonline/Seitling
       \endverb
-      \keyw{faktenuber}
     \endentry
-    \entry{faktenuber}{online}{}
+    \entry{enzyklo:seitlinge}{online}{}
       \name{labelname}{1}{}{%
-        {{uniquename=0,hash=30fc2a4fa5040b63f269a5926226af0a}{fakten-uber.de}{f\bibinithyphendelim u\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=fde077c2f1809b9e7378ed5aea8be3a9}{enzyklo.de}{e\bibinitperiod}{}{}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{uniquename=0,hash=30fc2a4fa5040b63f269a5926226af0a}{fakten-uber.de}{f\bibinithyphendelim u\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=fde077c2f1809b9e7378ed5aea8be3a9}{enzyklo.de}{e\bibinitperiod}{}{}{}{}{}{}}%
       }
-      \strng{namehash}{30fc2a4fa5040b63f269a5926226af0a}
-      \strng{fullhash}{30fc2a4fa5040b63f269a5926226af0a}
-      \field{sortinit}{f}
-      \field{labeltitle}{Fakten über Seitlinge}
-      \field{note}{Navigation: Suche, Seitlinge}
-      \field{title}{Fakten über Seitlinge}
+      \strng{namehash}{fde077c2f1809b9e7378ed5aea8be3a9}
+      \strng{fullhash}{fde077c2f1809b9e7378ed5aea8be3a9}
+      \field{sortinit}{e}
+      \field{labeltitle}{Definition Seitlinge}
+      \field{note}{Navigation: Definitionen, Suche, Seitlinge}
+      \field{title}{Definition Seitlinge}
       \field{urlday}{05}
       \field{urlmonth}{07}
       \field{urlyear}{2014}
       \verb{url}
-      \verb http://fakten-uber.de/seitlinge
+      \verb http://www.enzyklo.de/Begriff/Seitlinge
       \endverb
-      \keyw{faktenuber}
+    \endentry
+    \entry{hikersnotebook:oystermushroom}{online}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=280d327912a9ec48baff4bdf83b64c14}{hikersnotebook.net}{h\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=280d327912a9ec48baff4bdf83b64c14}{hikersnotebook.net}{h\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{280d327912a9ec48baff4bdf83b64c14}
+      \strng{fullhash}{280d327912a9ec48baff4bdf83b64c14}
+      \field{sortinit}{h}
+      \field{labeltitle}{Übersetung Pleurotus}
+      \field{note}{Navigation: Suche, Oyster Mushroom}
+      \field{title}{Übersetung Pleurotus}
+      \field{urlday}{05}
+      \field{urlmonth}{07}
+      \field{urlyear}{2014}
+      \verb{url}
+      \verb http://hikersnotebook.net/Oyster+Mushroom
+      \endverb
     \endentry
     \entry{pilzfinder_austernseitling_image}{online}{}
       \name{labelname}{1}{}{%
@@ -170,6 +188,27 @@
       \verb http://www.deutschlandradiokultur.de/speisepilz-wird-giftpilz.993.de.html?dram:article_id=154417
       \endverb
       \keyw{www.deutschlandradiokultur.de}
+    \endentry
+    \entry{tintling:lungenseitling_image}{online}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=a50a36962809f53c8c6cf22cb7663bd1}{RÖDDER}{R\bibinitperiod}{Klaus}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=a50a36962809f53c8c6cf22cb7663bd1}{RÖDDER}{R\bibinitperiod}{Klaus}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a50a36962809f53c8c6cf22cb7663bd1}
+      \strng{fullhash}{a50a36962809f53c8c6cf22cb7663bd1}
+      \field{sortinit}{R}
+      \field{labeltitle}{Lungenseitling}
+      \field{note}{Navigation: Pilzbuch, Gattungen, Pleurotus, Pleurotus pulmonarius}
+      \field{title}{Lungenseitling}
+      \field{urlday}{10}
+      \field{urlmonth}{08}
+      \field{urlyear}{2014}
+      \verb{url}
+      \verb http://tintling.com/pilzbuch/pilzbilder/Pleurotus_pulmonarius.jpg
+      \endverb
+      \keyw{http://www.tintling.com/}
     \endentry
     \entry{rezept}{online}{}
       \name{labelname}{1}{}{%
@@ -279,6 +318,27 @@
       \field{urlyear}{2014}
       \verb{url}
       \verb http://tintling.com/pilzbuch/arten/p/Pleurotus_eryngii.html
+      \endverb
+      \keyw{www.tintling.com}
+    \endentry
+    \entry{tintling:lungenseitling}{online}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=6b0fef7d0a328780aaf746b16f198635}{tintling.com}{t\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=6b0fef7d0a328780aaf746b16f198635}{tintling.com}{t\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{6b0fef7d0a328780aaf746b16f198635}
+      \strng{fullhash}{6b0fef7d0a328780aaf746b16f198635}
+      \field{sortinit}{t}
+      \field{labeltitle}{Lungenseitling, Löffel-Seitling Pleurotus pulmonarius}
+      \field{note}{Navigation: Pilzbuch, Gattungen, Pleurotus, Pleurotus pulmonarius}
+      \field{title}{Lungenseitling, Löffel-Seitling Pleurotus pulmonarius}
+      \field{urlday}{11}
+      \field{urlmonth}{08}
+      \field{urlyear}{2014}
+      \verb{url}
+      \verb http://tintling.com/pilzbuch/arten/p/Pleurotus_pulmonarius.html
       \endverb
       \keyw{www.tintling.com}
     \endentry

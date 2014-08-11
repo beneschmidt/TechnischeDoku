@@ -1964,25 +1964,26 @@
     <bcf:datasource type="file" datatype="bibtex">literatur.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">faktenuber</bcf:citekey>
-    <bcf:citekey order="2">pilzech</bcf:citekey>
-    <bcf:citekey order="3">faktenuber</bcf:citekey>
+    <bcf:citekey order="1">hikersnotebook:oystermushroom</bcf:citekey>
+    <bcf:citekey order="2">enzyklo:seitlinge</bcf:citekey>
+    <bcf:citekey order="3">duden:seitlinge</bcf:citekey>
     <bcf:citekey order="4">pilzech</bcf:citekey>
-    <bcf:citekey order="5">pg_austernseitling</bcf:citekey>
-    <bcf:citekey order="6">faktenuber</bcf:citekey>
-    <bcf:citekey order="7">tintling_auster</bcf:citekey>
-    <bcf:citekey order="8">pilzfinder_austernseitling_image</bcf:citekey>
-    <bcf:citekey order="9">tintling_kraeuter</bcf:citekey>
-    <bcf:citekey order="10">tintling:kraeuterseitling_image</bcf:citekey>
-    <bcf:citekey order="11">tintling_berindet</bcf:citekey>
-    <bcf:citekey order="12">faktenuber_berindet</bcf:citekey>
+    <bcf:citekey order="5">pilzech</bcf:citekey>
+    <bcf:citekey order="6">pg_austernseitling</bcf:citekey>
+    <bcf:citekey order="7">pilzech</bcf:citekey>
+    <bcf:citekey order="8">tintling_auster</bcf:citekey>
+    <bcf:citekey order="9">pilzfinder_austernseitling_image</bcf:citekey>
+    <bcf:citekey order="10">tintling_kraeuter</bcf:citekey>
+    <bcf:citekey order="11">tintling:kraeuterseitling_image</bcf:citekey>
+    <bcf:citekey order="12">tintling:lungenseitling</bcf:citekey>
     <bcf:citekey order="13">fotocom_berindeter_seitling_image</bcf:citekey>
-    <bcf:citekey order="14">vital</bcf:citekey>
-    <bcf:citekey order="15">pg_ohrfoermig</bcf:citekey>
-    <bcf:citekey order="16">deutschlandradio</bcf:citekey>
-    <bcf:citekey order="17">faktenuber</bcf:citekey>
-    <bcf:citekey order="18">rezept</bcf:citekey>
-    <bcf:citekey order="19">rezept_image</bcf:citekey>
+    <bcf:citekey order="14">tintling_berindet</bcf:citekey>
+    <bcf:citekey order="15">tintling:lungenseitling_image</bcf:citekey>
+    <bcf:citekey order="16">vital</bcf:citekey>
+    <bcf:citekey order="17">pg_ohrfoermig</bcf:citekey>
+    <bcf:citekey order="18">deutschlandradio</bcf:citekey>
+    <bcf:citekey order="19">rezept</bcf:citekey>
+    <bcf:citekey order="20">rezept_image</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" type="entry" label="nty">
   <bcf:sorting>

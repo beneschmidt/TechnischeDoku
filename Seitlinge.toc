@@ -20,6 +20,10 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.4.3}Berindeter Seitling}{8}{subsection.2.4.3}
 \defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.4}Lungenseitling}{9}{subsection.2.4.4}
+\defcounter {refsection}{0}\relax 
+\mbox {}
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.5}Medizinische Bedeutung}{9}{section.2.5}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.6}Verwechslungsm\IeC {\"o}glichkeiten}{9}{section.2.6}

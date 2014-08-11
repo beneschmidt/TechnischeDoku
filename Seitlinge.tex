@@ -31,21 +31,26 @@
 
 \usepackage{filecontents}
 \begin{filecontents}{literatur.bib} 
-@Electronic{faktenuber,
-  Title                    = {Fakten über Seitlinge},
-  Author                   = {fakten-uber.de},
-  Url                      = {http://fakten-uber.de/seitlinge},
-  Keywords                 = {faktenuber},
-  Note                     = {Navigation: Suche, Seitlinge},
+@Electronic{hikersnotebook:oystermushroom,
+  Title                    = {Übersetung Pleurotus},
+  Author                   = {hikersnotebook.net},
+  Url                      = {http://hikersnotebook.net/Oyster+Mushroom},
+  Note                     = {Navigation: Suche, Oyster Mushroom},
   Urldate				   = {2014-07-05}
 }
-@Electronic{faktenuber_berindet,
-  Title                    = {Fakten über Berindeter Seitling},
-  Author                   = {fakten-uber.de},
-  Url                      = {http://fakten-uber.de/berindeter_seitling},
-  Keywords                 = {faktenuber},
-  Note                     = {Navigation: Suche, Berindeter Seitling},
-  Urldate				   = {2014-07-08}
+@Electronic{duden:seitlinge,
+  Title                    = {Definition Seitlinge},
+  Author                   = {duden.de},
+  Url                      = {http://www.duden.de/suchen/dudenonline/Seitling},
+  Note                     = {Navigation: Suche, Seitling, erster Treffer},
+  Urldate				   = {2014-08-10}
+}
+@Electronic{enzyklo:seitlinge,
+  Title                    = {Definition Seitlinge},
+  Author                   = {enzyklo.de},
+  Url                      = {http://www.enzyklo.de/Begriff/Seitlinge},
+  Note                     = {Navigation: Definitionen, Suche, Seitlinge},
+  Urldate				   = {2014-07-05}
 }
 @Electronic{pilzech,
 	Title					= {Pilzbestimmung Pleurotus},
@@ -113,6 +118,14 @@
 	Note					= {Navigation: Pilzbuch, Gattungen, Pleurotus,  Pleurotus dryinus},
 	Urldate					= {2014-07-08}
 }
+@Electronic{tintling:lungenseitling,
+	Title					= {Lungenseitling, Löffel-Seitling Pleurotus pulmonarius},
+	Author					= {tintling.com},
+	Url						= {http://tintling.com/pilzbuch/arten/p/Pleurotus_pulmonarius.html},
+	Keywords				= {www.tintling.com},
+	Note					= {Navigation: Pilzbuch, Gattungen, Pleurotus,  Pleurotus pulmonarius},
+	Urldate					= {2014-08-11}
+}
 @Electronic{rezept,
 	Title					= {Kräuterseitlinge mit Nudeln},
 	Author					= {SIMU},
@@ -154,6 +167,14 @@
 	day = {2},
 	Urldate					= {2014-07-08}
 }
+@online{tintling:lungenseitling_image,
+	Title					= {Lungenseitling},
+	Author					= {Klaus RÖDDER},
+	Url						= {http://tintling.com/pilzbuch/pilzbilder/Pleurotus_pulmonarius.jpg},
+	Keywords				= {http://www.tintling.com/},
+	Note					= {Navigation: Pilzbuch, Gattungen, Pleurotus,  Pleurotus pulmonarius},
+	Urldate					= {2014-08-10}
+}
 @online{rezept_image,
 	Title					= {zubereitete Kräuterseitlinge mit Nudeln},
 	Author					= {SIMU},
@@ -172,11 +193,16 @@
 %set how many numbers show up in table-of-contents
 \setcounter{tocdepth}{2}
 \setlength{\parindent}{0em} 
+%Rand oben
 \usepackage{geometry}
  \geometry{
  a4paper,
  top=20mm
  }
+\renewcommand*\chapterheadstartvskip{\vspace*{0cm}}
+
+
+
 \begin{document}
 \includepdf[]{Deckblatt_Seitling.pdf}
 
@@ -201,17 +227,17 @@ Diese Ausarbeitung ist Bestandteil einer Reihe von Ausarbeitungen, die im Zuge d
 
 \chapter{Der Seitling}
 \section{Allgemeines}
-Die Seitlinge (lat. \emph{Pleurotus}) sind eine Pilzgattung aus der Familie der Seitlingsverwandten. In der Vergangenheit wurde sie lange den Stielporlingsverwandten (Polyporaceae) zugerechnet. Der lateinische Name \emph{Pleurotus} leitet sich von griechisch \emph{pleura} = die Seite, und griechisch \emph{us} = das Ohr ab, da die Pilze oft ohrförmig sind und meist einen seitlichen Stiel besitzen.\footcite{faktenuber} 
+Die Seitlinge (lat. \emph{Pleurotus}) sind eine Pilzgattung aus der Familie der Seitlingsverwandten.  Der lateinische Name \emph{Pleurotus} leitet sich von griechisch \emph{pleura} = die Seite, und griechisch \emph{us} = das Ohr ab, da die Pilze oft ohrförmig sind und meist einen seitlichen Stiel besitzen. Der Stiel kann sich dabei auch am Rand befinden oder ganz fehlen. Der bekannteste Vertreter ist der Austernpilz.\footcite{hikersnotebook:oystermushroom} \footcite{enzyklo:seitlinge} \footcite{duden:seitlinge}
 
 \section{Vorkommen}
 Da Seitlinge eine große Gattung darstellen, wachsen diese auch an unterschiedlichsten Orten und unter verschiedenen Bedingungen. Sie sind auch nicht unbedingt zu einer ganz speziellen Jahreszeit anzutreffen. Viele Arten wachsen vorrangig zwischen Sommer und Herbst, einige sind jedoch auch im Winter zu sichten, wie zum Beispiel der Gemeine Orangenseitling (lat. \emph{Phyllotopsis nidulans}). Andere Arten wachsen bereits im Frühjahr, wie zum Beispiel der Lungenseitling(lat. \emph{Pleurotus pulmonarius}). Seitlinge wachsen meist auf Holz, teilweise aber auch auf Erde, Stroh oder toten Blättern. Dabei sind sie hauptsächlich auf totem Laub- oder Nadelholz, bzw. an morschem Bauholz anzutreffen.\footcite{pilzech}
 
 \section{Beschreibung}
-Bei den Seitlingen handelt es sich meist um seitlich wachsende Pilze mit kurzem beziehungsweise ohne Stiel. Ihre Hüte sind muschel-, nieren- oder halbkreisförmig. Die Hutunterseite wird durch helle, ganzrandige Lamellen gebildet. Sie laufen dem Stiel entlang herab. Die Hutoberseite hingegen ist kahl und nicht geschuppt. Sie ist ockerlich bis grau, graublau, grünlichgrau und glatt. Das Sporenpulver ist weiß und in seltenen Fällen etwas lila. Das Fleisch der Seitlinge hat bei jungen Fruchtkörpern eine saftige, alt balt eine zähle Konsistenz.\footcite{faktenuber}\footcite{pilzech}\\
+Bei den Seitlingen handelt es sich meist um seitlich wachsende Pilze mit kurzem beziehungsweise ohne Stiel. Ihre Hüte sind muschel-, nieren- oder halbkreisförmig. Die Hutunterseite wird durch helle, ganzrandige Lamellen gebildet. Sie laufen dem Stiel entlang herab. Die Hutoberseite hingegen ist kahl und nicht geschuppt. Sie ist ockerlich bis grau, graublau, grünlichgrau und glatt. Das Sporenpulver ist weiß und in seltenen Fällen etwas lila. Das Fleisch der Seitlinge hat bei jungen Fruchtkörpern eine saftige, alt bald eine zähle Konsistenz.\footcite{pilzech}\\
 \\Die meisten Seitlinge sind nicht für den Verzehr geeignet. Einige Pilze, wie zum Beispiel der Austernseitling (lat. \emph{Pleurotus ostreatus}) sind jedoch als Speisepilze anerkannt.\footcite{pg_austernseitling}
 
 \section{Arten}
-"'Die Gattung Pleurotus umfasst weltweit etwa 30 Arten. In Europa kommen 8 Arten vor bzw. sind dort zu erwarten."' \footcite{faktenuber} Im folgenden sollen die bekanntesten Vertreter der Gattung kurz beschrieben werden.
+Die Gattung Pleurotus umfasst mehr als 20 Arten. Da viele keine Speisepilze sind, sind die meisten jedoch relativ unbekannt.\footcite{pilzech} Im folgenden sollen die bekanntesten Vertreter der Gattung kurz beschrieben werden.
 
 \subsection{Austernseitling}
 Der im Durchmesser 5 bis 20 cm große Austernseitling ist der wohl bekannteste Vertreter der Seitlinge. Der Speisepilz kommt vorzugsweise an Rotbuchen vor, aber auch an vielen anderen Bäumen und sogar auf Stroh. In Mitteleuropa ist er recht häufig anzutreffen. Seine Hüte sind muschelförmig, meistens ohne deutlich abgesetzten Stiel. Seine Oberfläche ist glatt, feucht und fett glänzend, seine Farbe reicht von schiefergrau über blaugrau bis graubraun. Die Lamellen sind weiß, dünn und engstehend. Sein Fleisch ist dick, fest und im Stiel zäh.\\
@@ -240,7 +266,7 @@ Neben dem Austernseitling ist der brauner Kräuter-Seitling ein weiterer essbare
 \subsection{Berindeter Seitling}
 Im Vergleich zum Austernseitling und Braunen Kräuter-Seitling ist der Berindete Seitling kein Speisepilz. Er wächst zwischen August und November und wird 5 bis 15 cm groß. Er ist oft in Stammwunden diverser, noch lebender Laub- und Nadelbäume zu finden. Der Pilz ist zwar verbreitet, jedoch findet man pro Fund meist nur einzelne oder wenige Fruchtkörper.\\
 \\Der Hut des Berindeten Seitlings ist exzentrisch, flach ausgebreitet mit einem lange eingerolltem Rand. Die Oberfläche ist weißlich, später hellgraulich und rindenartig-derb, filzig. Später ist sie auch aufbrechend und das weiße, gilbende Hutfleisch wird freigegeben. Die Lamellen sind weiß und laufen am Stiel weit herab. Der Geruch und Geschmack ist pilzartig-würzig.\\
-\\Der Pilz tritt als Wundparasit durch Verletzungen des Baumes ein. An diesen Stammwunden erscheinen dann auch die ersten Fruchkörper, oft sogar mehrere Meter über dem Erdboden. Der Pilz erzeugt dabei eine intensive Weißfäule des Kernholzes und bringt seinen Wirt auch früher oder später zum Absterben.\footcite{tintling_berindet} Die Seitlingsart kommt in der Holarktis, sowie auch in den nördlichen Subtropen, in Europa, Nordafrika, Asien, Mittel- und Nordamerika vor. In Deutschland ist er in unterschiedlicher Dichte verbreitet.\footcite{faktenuber_berindet}
+\\Der Pilz tritt als Wundparasit durch Verletzungen des Baumes ein. An diesen Stammwunden erscheinen dann auch die ersten Fruchkörper, oft sogar mehrere Meter über dem Erdboden. Der Pilz erzeugt dabei eine intensive Weißfäule des Kernholzes und bringt seinen Wirt auch früher oder später zum Absterben.\footcite{tintling:lungenseitling}
 
 \begin{figure}[H]
 \centering
@@ -250,6 +276,21 @@ Im Vergleich zum Austernseitling und Braunen Kräuter-Seitling ist der Berindete
 \end{figure}
 \footnotetext{\cite{fotocom_berindeter_seitling_image}}
 
+\subsection{Lungenseitling}
+Der Lungenseitling ist ein vielerorts selten vorkommender Seitling. In Europa ist er nur lückenhaft verbreitet. Seine Hüte sind muschel- bis lungenförmig, mit anfangs eingebogenem, später scharfem Rand. Er hat einen exzentrischen Stiel und kommt in dichten, oft kiloschweren und individuenreichen Büscheln vor. Man findet ihn meistens seitlich am Holz angewachsen. Seine Oberfläche ist glatt, fettig glänzend und kittfarben bis milchkaffeebeige, sein Rand ist opak. Die Lamellen sind weiß und dünn, engstehend und untermischt. Sein Fleisch ist dick, im Stiel zäh und weiß. Der Geruch und Geschmack sind unauffällig und mild. Er ist ebenfalls essbar und mit dem Ohrförmigen Seitling verwechselbar.\footcite{tintling_berindet}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=200px]{lungenseitling}
+\caption[Lungenseitling]{Lungenseitling\protect\footnotemark}
+\label{fig:lungenseitling}
+\end{figure}
+\footnotetext{\cite{tintling:lungenseitling_image}}
+
+%WICHTIGER ZEILENUMBRUCH IM INHALTSVERZEICHNIS
+%s. http://www.latex-community.org/forum/viewtopic.php?f=5&t=4271
+\addtocontents{toc}{\protect\mbox{}\protect}
+
 \section{Medizinische Bedeutung}
 Durch die in manchen Seitlingen vorhandene, antibiotisch wirkende Subtanz \emph{Pleuromulin} werden die Pilze unter anderem in der Traditionellen Chinesischen Medizin eingesetzt, zum Beispiel bei der Behandlung von Hexenschüssen und hohen Cholesterinwerten. Ebenfalls sind verschiedene Vitamine des Vitamin-B-Komplexes enthalten, die im menschlichen Organismus zur Energiegewinnung notwendig sind. Da diese Vitamine normalerweise über den Verzehr von Fleischprodukten aufgenommen werden, bieten die Seitlinge eine gute Alternative, wenn der Fleischverzehr aus ethischen oder moralischen Gründen nicht möglich ist.\\
 \\Daneben gibt es noch weitere Einsatzmöglichkeiten im Bereich der Entzündungshemmung, Aufnahme von Ballaststoffen, Blutdrucksenkung und Krebsheilung.
@@ -257,7 +298,6 @@ Vor allem sind dabei die beiden Arten Austernseitling und Kräuterseitling zu ne
 
 \section{Verwechslungsmöglichkeiten}
 Die Verwechslungsgefahr der Seitlinge ist vor allem zu anderen Seitlingen relativ hoch. Dadurch, dass einige Seitlingsarten essbar, andere jedoch giftig sind, ist hier äußerste Vorsicht geboten. Gerade der Ohrförmige Seitling kann zum Beispiel mit dem Speisepilz Lungenseitling (lat. \emph{Pleurotus pulmonaris}) verwechselt werden. Wer diesen nicht zu 100\% identifizieren kann, sollte ihn besser meiden und nicht verzehren, da dies unter Umständen tödliche Folgen mit sich bringen kann.\footcite{pg_ohrfoermig}\footcite{deutschlandradio}\\
-\\Aber auch in anderen Pilzgattungen existieren Arten, die den Seitlingen vergleichbare, kurz- oder ungestielt am Substrat ansitzende Fruchtkörper bilden und deshalb teilweise auch mit dem deutschen Trivialnamen Seitling bezeichnet werden. In Mitteleuropa sind dies zum Beispiel die Zwergknäuelinge (\emph{Panellus}), Muschelinge (\emph{Hohenbuehelia}), Knäuelinge (\emph{Panus}) und die ebenfalls als Seitlinge bezeichneten Gattungen \emph{Pleurocybella} und \emph{Phyllotopsis}. Auch der relativ große Ulmenrasling (Hypsizygus ulmarius) sowie andere Holzraslinge könnten mit den Seitlingen verwechselt werden.\footcite{faktenuber}
 
 \section[Rezept -- Kräuterseitlinge mit Nudeln]{Rezept -- Kräuterseitlinge mit Nudeln\footcite{rezept}}
 
